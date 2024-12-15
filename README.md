@@ -1,14 +1,14 @@
-# Nerfies
+# Heterophilic Hypergraph Learning (HHL)
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [HHL website](https://kellysylvia77.github.io/HHL/).
 
-If you find Nerfies useful for your work please cite:
+If you find HHL useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@inproceedings{Li2025hyper
+  author={Ming Li, Yongchun Gu, Yi Wang, Yujie Fang, Lu Bai, Xiaosheng Zhuang, Pietro Lio},
+  title={When Hypergraph Meets Heterophily: New Benchmark Datasets and Baseline},
+  booktitle={AAAI},
+  year={2025}
 }
 ```
 
