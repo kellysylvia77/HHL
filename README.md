@@ -4,10 +4,13 @@ This is the repository that contains source code for the [HHL website](https://k
 
 If you find HHL useful for your work please cite:
 ```
-@inproceedings{Li2025hyper
-  author={Ming Li, Yongchun Gu, Yi Wang, Yujie Fang, Lu Bai, Xiaosheng Zhuang, Pietro Lio},
+@inproceedings{li2025hypergraph,
   title={When Hypergraph Meets Heterophily: New Benchmark Datasets and Baseline},
-  booktitle={AAAI},
+  author={Li, Ming and Gu, Yongchun and Wang, Yi and Fang, Yujie and Bai, Lu and Zhuang, Xiaosheng and Lio, Pietro},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={17},
+  pages={18377--18384},
   year={2025}
 }
 ```
